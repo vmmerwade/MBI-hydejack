@@ -2,14 +2,14 @@
 title: About the Marine Biomass Innovation Project
 ---
 
-<h1>What is Biomass?</h1>
+<h2>What is Biomass?</h2>
 For MBI, biomass refers to...
 
-<h1>Problem</h1>
+<h2>Problem</h2>
 Historically, marine industries...
 
-<h1>Solution</h1>
+<h2>Solution</h2>
 In partnership with...
 
-<h1>Innovation</h1>
+<h2>Innovation</h2>
 This is a unique inter-disciplinary...

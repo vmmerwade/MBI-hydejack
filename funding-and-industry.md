@@ -2,10 +2,10 @@
 title: Funders and Industry Partners
 ---
 
-<h1>Funders</h1>
+<h2>Funders</h2>
 
 Funding sources
 
-<h1>Industry Partners</h1>
+<h2>Industry Partners</h2>
 
 Industry Partners
